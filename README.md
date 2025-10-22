@@ -7,7 +7,7 @@ This project focuses on comparing **Support Vector Machine (SVM)** and **K-Neare
 
 ## 📘 Project Overview
 
-The goal of this project is to **predict whether a climate model simulation will crash or succeed**, using a dataset containing **522 samples**.
+The goal of this project is to **predict whether a climate model simulation will crash or succeed**, using a dataset containing **540 samples**.
 Each sample includes **18 scaled input parameters** (values between 0 and 1) and a **binary outcome label**:
 
 * `0` → Failure
@@ -64,8 +64,5 @@ For imbalanced datasets, **SVM with feature selection and fine-tuning** is recom
 * Scikit-learn
 * NumPy
 * Pandas
-* Matplotlib / Seaborn
+* Matplotlib 
 
-
-
-Would you like me to make it look more **formal academic-style** (for a supervisor or report) or keep it **simple GitHub-friendly** (like above, concise with emojis)?
