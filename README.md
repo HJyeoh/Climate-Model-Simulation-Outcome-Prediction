@@ -1,5 +1,3 @@
-# Climate-Model-Simulation-Outcome-Prediction
-
 # 🌦️ Climate Model Simulation Outcome Prediction
 
 This project focuses on comparing **Support Vector Machine (SVM)** and **K-Nearest Neighbours (KNN)** classifiers to predict **climate model simulation outcomes** (success or failure) based on 18 input parameters.
